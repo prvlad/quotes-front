@@ -1,0 +1,20 @@
+.Container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+form {
+  width: 35rem;
+  height: 100%;
+}
+
+.Row {
+  display: flex;
+  flex-direction: column;
+}
+
+.Row label {
+  margin-bottom: 1rem;
+}

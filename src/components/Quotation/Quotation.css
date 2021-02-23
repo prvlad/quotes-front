@@ -1,0 +1,15 @@
+.Q-container {
+    margin-left: 2rem;
+}
+
+.Q-container button {
+    margin-left: 1rem;
+}
+
+.Q-container button {
+    display: none;
+}
+
+.Q-container:hover button {
+    display: inline-block;
+}
